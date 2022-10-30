@@ -1,0 +1,3 @@
+^`::
+Run "main.exe"
+Return
